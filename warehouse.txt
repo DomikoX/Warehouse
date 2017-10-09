@@ -1,0 +1,64 @@
+4
+John_Snow Bartisla_8456
+Eddard_Stark Zilina_84123
+Robert_Baratheon Cadca_3215
+Stannis_Baratheon Novaky_2369
+6
+1254862 Arakh 0
+862598 Ice 1
+65874326 Robert_Hammer 2
+54128635 OakKeeper 3
+88654472 LightSaber 3
+65874695 GoldHead 1
+4
+Targaryen Praha_8456
+2
+Cadca_214 7
+Trnava_3214 6
+Baratheon Zilina_254
+2
+Ostrava_6214 3
+Kyprany_5483 1
+Stark Novaky_1254
+1
+Priekopy_5123 1
+Lanister Cadca_3214
+2
+Brno_5147 4
+Svrcinovec_2145 5
+7
+250 250 1 1455498000
+125 125 0 1451610000
+84 84 4 1455238800
+24 24 1 1455238800
+150 150 3 1459645200
+35 35 4 1454115600
+50 50 5 1451437200
+5
+0 1460595600 5
+4
+28 2
+146 0
+86 3
+54 1
+0 1460592000 1
+4
+156 0
+146 3
+80 3
+15 1
+0 1460678400 4
+4
+40 0
+10 1
+4 2
+89 3
+0 1460678400 3
+2
+20 0
+10 1
+0 1461114000 6
+3
+10 0
+20 5
+25 3
